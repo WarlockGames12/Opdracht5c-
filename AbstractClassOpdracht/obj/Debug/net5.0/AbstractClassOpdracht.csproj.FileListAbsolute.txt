@@ -1,0 +1,16 @@
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\bin\Debug\net5.0\AbstractClassOpdracht.exe
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\bin\Debug\net5.0\AbstractClassOpdracht.deps.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\bin\Debug\net5.0\AbstractClassOpdracht.runtimeconfig.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\bin\Debug\net5.0\AbstractClassOpdracht.runtimeconfig.dev.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\bin\Debug\net5.0\AbstractClassOpdracht.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\bin\Debug\net5.0\ref\AbstractClassOpdracht.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\bin\Debug\net5.0\AbstractClassOpdracht.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.csproj.AssemblyReference.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.AssemblyInfoInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.AssemblyInfo.cs
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\ref\AbstractClassOpdracht.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\AbstractClassOpdracht\AbstractClassOpdracht\obj\Debug\net5.0\AbstractClassOpdracht.genruntimeconfig.cache
